@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "pqblocks-fips-dualmode"
+version: "0.1.0"
+license: Apache-2.0
+repository-code: "https://github.com/PQBlocks/fips-dualmode"
+authors:
+  - name: "The PQBlocks Authors"
+keywords:
+  - post-quantum
+  - pqc
+  - fips-140-3
+  - dual-mode
+  - ml-kem
+  - ml-dsa
+  - ecdh
+  - aes-gcm
+abstract: "Dual-mode cryptographic abstraction switching between FIPS 140-3 classical crypto (ECDH/AES-GCM) and post-quantum crypto (ML-KEM/ML-DSA)."
